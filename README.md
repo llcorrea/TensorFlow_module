@@ -1,4 +1,4 @@
-# Machine Leaning model with TensorFlow2
+# Machine Learning model with TensorFlow2
 
 Machine Learning (ML) models using TensorFlow (TF) libs.
 
