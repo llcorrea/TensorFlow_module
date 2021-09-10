@@ -6,7 +6,7 @@ TensorFlow is an end-to-end open source platform for machine learning. Its APIs 
 
 Low-level APIs are used to explore new ML algorithms. On the contrary, the high-level API named tf.keras is used to train and define machine learning models. 
 
-In this, the API and functions of tf.keras is explored.
+In this implementation, the API and functions of tf.keras are explored.
 
 TF documentation: https://www.tensorflow.org/
 
